@@ -1,2 +1,2 @@
 # freeCodeCamp
-A repository for some web development stuff.
+This is a repository for some web development stuff.
